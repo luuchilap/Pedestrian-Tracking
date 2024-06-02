@@ -4,4 +4,4 @@
 
 - Detector Module: Uses YOLOv8 for detecting pedestrians in each video frame.
 
--Tracker Module: Employs DeepSORT to track the detected pedestrians' trajectories across frames.
+- Tracker Module: Employs DeepSORT to track the detected pedestrians' trajectories across frames.
