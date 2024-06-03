@@ -6,4 +6,4 @@
 
 - Tracker Module: Employs DeepSORT to track the detected pedestrians' trajectories across frames.
 
-Link Gooogle Colab: https://colab.research.google.com/drive/1OXlpHwjdPKQXAdUAAfTXrOg47GUw5JDa
+Link Google Colab: https://colab.research.google.com/drive/1OXlpHwjdPKQXAdUAAfTXrOg47GUw5JDa
